@@ -1,4 +1,4 @@
-# git-lecture
+# git-lecture №1
 this is description of this project.
 
 This is a change.
